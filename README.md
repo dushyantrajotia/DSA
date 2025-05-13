@@ -1,6 +1,7 @@
 # DSA
 
-**100 Days of Code **
+** 100 Days of Code **
+
 Day 1 Intro to Programming & Flowcharts 
 
 Day 2 Write your First Program in C++
